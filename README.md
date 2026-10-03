@@ -2,24 +2,17 @@
 
 **Engineering intelligent systems.**
 
-Steerion Labs is the engineering and R&D home for AI systems, autonomous agents, decision intelligence, and product software built under the Steerion umbrella.
+Steerion Labs is an independent engineering and R&D workspace focused on applied AI, decision intelligence, automation, and product software.
 
 ## Focus
 
-- AI systems & autonomous agents
+- AI systems and intelligent agents
 - Decision intelligence
 - Product engineering
-- Automation & developer tooling
-- Applied AI experiments and prototypes
+- Automation and developer tooling
+- Applied AI research and experimentation
 
-## Selected work
-
-- **Steerion Cognitive OS** — provider-neutral decision intelligence platform
-- **Tradepilot** — intelligent trading project
-- **GaragePilot** — automotive ERP software
-- **RestoPilot Executive** — restaurant controlling software
-- **Aura** — AI-focused project
-- **Phoenix Application OS** — application workflow system
+Current projects and work in progress are intentionally not listed publicly.
 
 ---
 
